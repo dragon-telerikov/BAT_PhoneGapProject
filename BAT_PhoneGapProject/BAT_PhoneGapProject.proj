@@ -51,7 +51,11 @@
     <Resource Include="App_Resources\Android\drawable-ldpi\icon.png" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="aaaa.html" />
+    <Content Include="asasa.html" />
+    <Content Include="HtmlPage.html" />
     <Content Include="index.html" />
+    <Content Include="JavaScript.js" />
     <Content Include="jquery-mobile\images\ajax-loader.png" />
     <Content Include="jquery-mobile\images\ajax-loader.gif" />
     <Content Include="jquery-mobile\images\icons-18-black.png" />
